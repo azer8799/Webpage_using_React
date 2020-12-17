@@ -1,0 +1,19 @@
+.userstyle img {
+  width: 200px;
+  height: 100px;
+}
+.userstyle {
+  margin-left: 40px;
+  background-color: cadetblue;
+  display: inline-block;
+  padding: 7px;
+  text-align: center;
+}
+.mainpage h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.mainpage button {
+  color: cornflowerblue;
+  margin-left: 30px;
+}
